@@ -1,1 +1,1 @@
-# netteparca.com javascript Frontend
+# netteparca.com Frontend
